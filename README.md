@@ -6,4 +6,4 @@ that VQE optimizes on these coordinates quite a bit faster [completed].
 
 Then, a water dimer is selected for proof of concept for modeling interaction energies, where we use relative coordinates to optimize the interaction between these 2 molecules, which can be used to model protein-ligand interactions [currently in progress].
 
-Finally, these relative coordinates are used to train a classical neural network on the wavefunction of interaction chemical systems. This neural network should then be able to plot out a potential energy surface of interaction systems [currently in progress].
+Finally, these relative coordinates are used to train a classical neural network on the wavefunction of interaction chemical systems (this code is adapted from a similar Pennylane achieving a similar purpose, but it's outdated and uses full euclidean coordinates). This neural network should then be able to plot out a potential energy surface of interaction systems [currently in progress].
