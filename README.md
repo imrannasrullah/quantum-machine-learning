@@ -1,5 +1,5 @@
 # quantum-machine-learning
-This code is part of a QML prokect under Dr. Gustavo Seabra to use Pennylane's QML framework to optimize molecular geometries + interaction energies.
+This code is part of a QML project under Dr. Gustavo Seabra (UF Medicinal Chemistry Lab) to use Pennylane's QML framework to optimize molecular geometries + interaction energies.
 
 Initially, there's 4 different small molecules, where we express these molecule's Hamiltonian in "relative coordinates" (AKA z-matrix coordinates) and show
 that VQE optimizes on these coordinates quite a bit faster [completed].
