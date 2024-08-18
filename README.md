@@ -1,5 +1,5 @@
 # quantum-machine-learning
-This code is part of a QML project under Dr. Gustavo Seabra (UF Medicinal Chemistry Lab) to use Pennylane's QML framework to optimize molecular geometries + interaction energies.
+This is a Quantum Machine-Learning project under Dr. Gustavo Seabra (UF Medicinal Chemistry Lab), which uses Pennylane's QML framework to optimize molecular geometries + interaction energies.
 
 (With extreme thanks to both Dr. Gustabo Seabra and Dr. Chenglong Li for their co-mentorship and willingness to guide me every step of the way in this novel endeavor!)
 
