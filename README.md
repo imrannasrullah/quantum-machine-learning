@@ -1,7 +1,7 @@
 # quantum-machine-learning
 This is a Quantum Machine-Learning project under the UF Medicinal Chemistry Lab, which uses Pennylane's QML framework to optimize molecular geometries + interaction energies.
 
-(With extreme thanks to both Dr. Gustabo Seabra and Dr. Chenglong Li for their co-mentorship and willingness to guide me every step of the way in this novel endeavor!)
+(With extreme appreciation and gratitude to both Dr. Gustabo Seabra and Dr. Chenglong Li for their co-mentorship and willingness to guide me every step of the way)
 
 For the first stage of this project, there's 4 different small molecules, where we express these molecule's Hamiltonian in "relative coordinates" (AKA z-matrix coordinates) and show
 that VQE optimizes on these coordinates quite a bit faster + simplifying Hamiltonian parametrization as opposed to normal parametrization using Euclidean-coordinates [completed].
