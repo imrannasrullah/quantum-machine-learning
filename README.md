@@ -3,8 +3,8 @@ This is a Quantum Machine-Learning project under the UF Medicinal Chemistry Lab,
 
 (With extreme thanks to both Dr. Gustabo Seabra and Dr. Chenglong Li for their co-mentorship and willingness to guide me every step of the way in this novel endeavor!)
 
-Initially, there's 4 different small molecules, where we express these molecule's Hamiltonian in "relative coordinates" (AKA z-matrix coordinates) and show
-that VQE optimizes on these coordinates quite a bit faster + simplifying Hamiltonian parametrization[completed].
+For the first stage of this project, there's 4 different small molecules, where we express these molecule's Hamiltonian in "relative coordinates" (AKA z-matrix coordinates) and show
+that VQE optimizes on these coordinates quite a bit faster + simplifying Hamiltonian parametrization as opposed to normal parametrization using Euclidean-coordinates [completed].
 
 Then, a water dimer is selected for proof of concept for modeling interaction energies, where we use relative coordinates to optimize the interaction between these 2 molecules, which can be used to model protein-ligand interactions [currently in progress].
 
