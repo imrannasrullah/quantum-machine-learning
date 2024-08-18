@@ -1,10 +1,10 @@
 # quantum-machine-learning
-This is a Quantum Machine-Learning project under Dr. Gustavo Seabra (UF Medicinal Chemistry Lab), which uses Pennylane's QML framework to optimize molecular geometries + interaction energies.
+This is a Quantum Machine-Learning project under the UF Medicinal Chemistry Lab, which uses Pennylane's QML framework to optimize molecular geometries + interaction energies.
 
 (With extreme thanks to both Dr. Gustabo Seabra and Dr. Chenglong Li for their co-mentorship and willingness to guide me every step of the way in this novel endeavor!)
 
 Initially, there's 4 different small molecules, where we express these molecule's Hamiltonian in "relative coordinates" (AKA z-matrix coordinates) and show
-that VQE optimizes on these coordinates quite a bit faster [completed].
+that VQE optimizes on these coordinates quite a bit faster + simplifying Hamiltonian parametrization[completed].
 
 Then, a water dimer is selected for proof of concept for modeling interaction energies, where we use relative coordinates to optimize the interaction between these 2 molecules, which can be used to model protein-ligand interactions [currently in progress].
 
